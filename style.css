@@ -1,0 +1,39 @@
+.jumbotron {
+    background-color: #f8f9fa; /* Your custom background color */
+    color: #333; /* Your custom text color */
+}
+
+.navbar-brand img {
+    width: 60px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+.fa-facebook {
+    color: white;
+  }
+  
+  .fa-instagram {
+    color: white;
+  }
+
+  .fa-youtube {
+    color: white;
+  }
+  
+  .fa-twitter {
+    color: white;
+  }
+  
+  
